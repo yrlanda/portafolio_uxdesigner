@@ -1295,4 +1295,12 @@ blockquote .person cite {
   margin: 0 0 5px 0;
 }
 
+.icon-caja{
+  text-align: center;
+}
+
+.icon-caja span{
+  display: inline-table !important;
+}
+
 /*# sourceMappingURL=style.css.map */

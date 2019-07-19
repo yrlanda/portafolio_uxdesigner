@@ -1173,6 +1173,9 @@
 .icon-print:before {
   content: "\e9fc";
 }
+.icon-profile:before {
+  content: "\e923";
+}
 .icon-progress-empty:before {
   content: "\e9fd";
 }
