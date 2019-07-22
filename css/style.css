@@ -11,7 +11,7 @@
 *
 * ======================================================= */
 body {
-  font-family: "Montserrat", Arial, sans-serif;
+  font-family: 'Lato', sans-serif;
   font-weight: 300;
   font-size: 16px;
   line-height: 1.7;
@@ -43,7 +43,7 @@ body {
   bottom: 0;
   left: 0;
   z-index: 101;
-  background: rgba(0, 0, 0, 0.7);
+  background: rgba(78, 80, 86, 0.7);
   content: "";
 }
 
@@ -64,8 +64,8 @@ p {
 }
 
 h1, h2, h3, h4, h5, h6, figure {
-  color: #000;
-  font-family: "Montserrat", Arial, sans-serif;
+  color: #4e5056;
+  font-family: 'Lato', sans-serif;
   font-weight: 400;
   margin: 0 0 20px 0;
 }
@@ -119,7 +119,7 @@ h1, h2, h3, h4, h5, h6, figure {
   padding: 0;
   text-transform: uppercase;
   font-weight: bold;
-  font-family: "Montserrat", Arial, sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 .fh5co-nav .fh5co-social {
   margin: 3px 0 0 0;
@@ -131,11 +131,11 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .fh5co-nav .fh5co-social li a {
   font-size: 20px;
-  color: rgba(0, 0, 0, 0.4);
+  color: rgba(78, 80, 86, 0.4);
 }
 .fh5co-nav a {
   padding: 5px 0;
-  color: #000;
+  color: #4e5056;
 }
 @media screen and (max-width: 768px) {
   .fh5co-nav .menu-1, .fh5co-nav .menu-2 {
@@ -166,7 +166,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .fh5co-nav .menu-2 li input[type=text]:focus {
   width: 100%;
   outline: none;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid rgba(78, 80, 86, 0.1);
 }
 .fh5co-nav .menu-2 li button {
   margin-top: 4px;
@@ -175,7 +175,7 @@ h1, h2, h3, h4, h5, h6, figure {
   border: none;
 }
 .fh5co-nav .menu-2 li button i {
-  color: rgba(0, 0, 0, 0.5);
+  color: rgba(78, 80, 86, 0.5);
 }
 .fh5co-nav .menu-2 li button:hover, .fh5co-nav .menu-2 li button:focus {
   background: transparent !important;
@@ -192,14 +192,14 @@ h1, h2, h3, h4, h5, h6, figure {
   margin: 0;
   list-style: none;
   display: inline-block;
-  font-family: "Montserrat", Arial, sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 .fh5co-nav ul li a {
   text-transform: uppercase;
   letter-spacing: 2px;
   font-size: 12px;
   padding: 30px 10px;
-  color: rgba(0, 0, 0, 0.9);
+  color: rgba(78, 80, 86, 0.9);
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
@@ -212,9 +212,9 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .fh5co-nav ul li.has-dropdown .dropdown {
   width: 150px;
-  -webkit-box-shadow: 0px 5px 10px -2px rgba(0, 0, 0, 0.55);
-  -moz-box-shadow: 0px 5px 10px -2px rgba(0, 0, 0, 0.55);
-  box-shadow: 0px 5px 10px -2px rgba(0, 0, 0, 0.55);
+  -webkit-box-shadow: 0px 5px 10px -2px rgba(78, 80, 86, 0.55);
+  -moz-box-shadow: 0px 5px 10px -2px rgba(78, 80, 86, 0.55);
+  box-shadow: 0px 5px 10px -2px rgba(78, 80, 86, 0.55);
   z-index: 1002;
   visibility: hidden;
   opacity: 0;
@@ -222,7 +222,7 @@ h1, h2, h3, h4, h5, h6, figure {
   top: 40px;
   left: 0;
   text-align: left;
-  background: #000;
+  background: #4e5056;
   padding: 20px;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
@@ -241,7 +241,7 @@ h1, h2, h3, h4, h5, h6, figure {
   width: 0;
   position: absolute;
   pointer-events: none;
-  border-bottom-color: #000;
+  border-bottom-color: #4e5056;
   border-width: 8px;
   margin-left: -8px;
 }
@@ -265,7 +265,7 @@ h1, h2, h3, h4, h5, h6, figure {
   color: #fff;
 }
 .fh5co-nav ul li.has-dropdown:hover a, .fh5co-nav ul li.has-dropdown:focus a {
-  color: #000;
+  color: #4e5056;
 }
 .fh5co-nav ul li.active > a {
   color: #cabcab !important;
@@ -279,7 +279,7 @@ h1, h2, h3, h4, h5, h6, figure {
   margin-bottom: 7em;
 }
 .about-content img {
-  border: 1px solid rgba(0, 0, 0, 0.05);
+  border: 1px solid rgba(78, 80, 86, 0.05);
   padding: 10px;
 }
 .about-content .desc {
@@ -349,7 +349,7 @@ h1, h2, h3, h4, h5, h6, figure {
   position: relative;
 }
 .fh5co-contact-info ul li:before {
-  color: #cabcab;
+  color: #7B2256;
   position: absolute;
   left: 0;
   top: .05em;
@@ -382,7 +382,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 .fh5co-bg-section {
-  background: rgba(0, 0, 0, 0.05);
+  background: #edebe8;
 }
 
 #fh5co-started,
@@ -391,7 +391,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-about,
 #fh5co-contact,
 #fh5co-footer {
-  padding: 7em 0;
+  padding: 2em 0;
   clear: both;
 }
 @media screen and (max-width: 768px) {
@@ -416,7 +416,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .feature-center .icon {
   width: 90px;
   height: 90px;
-  background: #cabcab;
+  background: #7B2256;
   display: table;
   text-align: center;
   margin-bottom: 30px;
@@ -496,7 +496,7 @@ h1, h2, h3, h4, h5, h6, figure {
   line-height: 24px;
 }
 .work .work-grid .inner .desc h3 a {
-  color: #000;
+  color: #4e5056;
 }
 .work .work-grid .inner .desc .cat {
   font-size: 11px;
@@ -527,17 +527,17 @@ h1, h2, h3, h4, h5, h6, figure {
   margin: 0;
 }
 .categories li {
-  font-family: "Montserrat", Arial, sans-serif;
+  font-family: 'Lato', sans-serif;
   list-style: none;
   margin-bottom: 5px;
 }
 .categories li.cat {
-  color: #000;
+  color: #4e5056;
   font-size: 20px;
   margin-bottom: 10px;
 }
 .categories li a:hover {
-  color: #000;
+  color: #4e5056;
 }
 
 .intro h2 {
@@ -561,7 +561,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 .fh5co-heading {
-  margin-bottom: 5em;
+  margin-bottom: 2em;
 }
 .fh5co-heading.fh5co-heading-sm {
   margin-bottom: 2em;
@@ -573,7 +573,7 @@ h1, h2, h3, h4, h5, h6, figure {
   font-weight: bold;
   text-transform: uppercase;
   letter-spacing: 1px;
-  color: #000;
+  color: #4e5056;
 }
 .fh5co-heading h3 {
   font-size: 18px;
@@ -589,7 +589,7 @@ h1, h2, h3, h4, h5, h6, figure {
   text-transform: uppercase;
   font-size: 12px;
   letter-spacing: 2px;
-  font-family: "Montserrat", Arial, sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 
 .title {
@@ -708,7 +708,7 @@ h1, h2, h3, h4, h5, h6, figure {
   list-style: none;
 }
 #fh5co-footer .fh5co-footer-links li a {
-  color: #000;
+  color: #4e5056;
   text-decoration: none;
 }
 #fh5co-footer .fh5co-footer-links li a:hover {
@@ -892,7 +892,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 .uppercase {
   font-size: 14px;
-  color: #000;
+  color: #4e5056;
   margin-bottom: 10px;
   font-weight: 700;
   text-transform: uppercase;
@@ -917,7 +917,7 @@ h1, h2, h3, h4, h5, h6, figure {
   width: 50px;
   height: 50px;
   display: table;
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(78, 80, 86, 0.5);
   color: #fff;
   text-align: center;
   -webkit-border-radius: 4px;
@@ -972,10 +972,10 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .fh5co-nav-toggle.fh5co-nav-white > i {
   color: #fff;
-  background: #000;
+  background: #4e5056fe;
 }
 .fh5co-nav-toggle.fh5co-nav-white > i::before, .fh5co-nav-toggle.fh5co-nav-white > i::after {
-  background: #000;
+  background: #4e5056;
 }
 
 .fh5co-nav-toggle i::before {
@@ -1041,7 +1041,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .btn {
   margin-right: 4px;
   margin-bottom: 4px;
-  font-family: "Montserrat", Arial, sans-serif;
+  font-family: 'Lato', sans-serif;
   font-size: 16px;
   font-weight: 400;
   -webkit-border-radius: 2px;
@@ -1201,7 +1201,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .form-control {
   box-shadow: none;
   background: transparent;
-  border: 2px solid rgba(0, 0, 0, 0.1);
+  border: 2px solid rgba(78, 80, 86, 0.1);
   height: 54px;
   font-size: 18px;
   font-weight: 300;
@@ -1259,13 +1259,13 @@ blockquote p {
   color: #666666;
 }
 blockquote .person {
-  font-family: "Montserrat", Arial, sans-serif;
+  font-family: 'Lato', sans-serif;
   font-size: 14px;
   color: #b3b3b3;
 }
 blockquote .person cite {
   font-style: normal;
-  color: #000;
+  color: #4e5056;
 }
 
 .portfolio-navigation i {
@@ -1301,6 +1301,14 @@ blockquote .person cite {
 
 .icon-caja span{
   display: inline-table !important;
+}
+
+.yrlanda-text{
+  color: #7B2256 !important;
+}
+
+.contact-text{
+  color: #4e5056;
 }
 
 /*# sourceMappingURL=style.css.map */
