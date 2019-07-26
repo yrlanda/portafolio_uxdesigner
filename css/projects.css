@@ -471,7 +471,7 @@ h1, h2, h3, h4, h5, h6, figure {
   height: 300px;
   width: 100.1%;
   opacity: 0;
-  background: rgba(0,159,177, 0.5);
+  background: rgba(237, 235, 232, 0.9);
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
@@ -573,16 +573,9 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .fh5co-heading h2 {
   font-size: 28px;
-  margin-bottom: 20px;
-  line-height: 1.5;
-  font-weight: bold;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  color: #4e5056;
+  
 }
-.fh5co-heading h3 {
-  font-size: 18px;
-}
+
 .fh5co-heading p {
   font-size: 18px;
   line-height: 1.5;
@@ -1283,21 +1276,10 @@ blockquote .person cite {
   margin-top: 2.5em;
   margin-bottom: 2.5em;
 }
-.role h3 {
-  text-transform: uppercase;
-  font-size: 12px;
-  letter-spacing: 2px;
-  margin-bottom: 20px;
-}
-.role ul {
-  padding: 0;
-  margin: 0;
-}
+
 .role ul li {
-  font-size: 14px;
-  list-style: none;
-  padding: 0;
-  margin: 0 0 5px 0;
+  font-size: 18px;
+  
 }
 
 .icon-caja{
