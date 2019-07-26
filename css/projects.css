@@ -48,7 +48,7 @@ body {
 }
 
 a {
-  color: #cabcab;
+  color: #009fb1;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
@@ -330,7 +330,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: inline-block;
   zoom: 1;
   *display: inline;
-  color: #cabcab;
+  color: #009fb1;
   padding-left: 10px;
   padding-right: 10px;
 }
