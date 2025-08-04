@@ -1312,8 +1312,14 @@ blockquote .person cite {
   color: #009fb1 !important;
 }
 
+.icon-github{
+  font-size:20px;
+}
+
 .contact-text{
   color: #4e5056;
+  font-family: lato,sans-serif;
+  font-size: 16px;
 }
 
 /*# sourceMappingURL=style.css.map */
